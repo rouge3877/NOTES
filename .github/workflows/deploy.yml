@@ -47,7 +47,7 @@ jobs:
       # 修改后的构建命令
       - name: Build with mdBook
         run: |
-          mdbook build -v
+          mdbook build
           ls -R book  # 调试用，可移除
 
       - name: Upload artifact
