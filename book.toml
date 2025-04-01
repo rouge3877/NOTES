@@ -5,7 +5,13 @@ language = "zh-CN"
 multilingual = false
 src = "src"
 
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
 [output.html]
 site-url = "/notes/"
 git-repository-url = "https://github.com/rouge3877/notes"
 git-repository-icon = "fa-github"
+
+[output.html.mathjax-support]
+enable = true
