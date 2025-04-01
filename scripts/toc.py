@@ -66,6 +66,6 @@ def create_summary_file(src_directory, output_file="SUMMARY.md", ignore_dirs=[],
     print(f"SUMMARY.md has been created at {output_file}")
 
 # 配置参数
-src_directory = "../src/"
+src_directory = "./src/"
 ignore_dirs = ["ignore_this_folder", "figs", "examples"]
 create_summary_file(src_directory, ignore_dirs=ignore_dirs, use_natural_sort=True)
