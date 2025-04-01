@@ -5,14 +5,7 @@ language = "zh-CN"
 multilingual = false
 src = "src"
 
-
 [output.html]
 site-url = "/notes/"
-default-theme = "black"
-preferred-dark-theme = "black"
 git-repository-url = "https://github.com/rouge3877/notes"
 git-repository-icon = "fa-github"
-
-
-[output.html.playground]
-editable = true
