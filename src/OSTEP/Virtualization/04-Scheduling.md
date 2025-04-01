@@ -1,9 +1,3 @@
----
-date: 2024-09-29
-title: Schedulingc Introduction
-
----
-
 # 4-Scheduling: Introduction
 
 ## **Crux: How to develop scheduling policy**

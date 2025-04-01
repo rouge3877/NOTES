@@ -1,10 +1,10 @@
-# 介绍
+# Rouge's Notes
 
-欢迎来到我的知识库！这是一个使用mdBook构建的个人知识管理系统。
+This is a collection of notes about Computer Science, including Operating Systems, Computer Networks, and more.
 
-## 关于本知识库
+## 关于
 
-这个知识库用于记录和整理各种学习笔记、技术文档和个人心得。通过系统化的组织，可以更方便地查找和回顾知识点。
+这个repo用于记录和整理各种学习笔记、技术文档和个人心得。通过系统化的组织，可以更方便地查找和回顾知识点。
 
 ## 如何使用
 

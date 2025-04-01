@@ -1,9 +1,3 @@
----
-date: 2024-09-21
-title: Limited Direct Execution
-
----
-
 # 3-Mechanism: Limited Direct Execution
 
 ## **Crux: HOW TO EFFICIENTLY VIRTUALIZE THE CPU WITH CONTROL**

@@ -1,9 +1,3 @@
----
-date: 2024-09-11
-title: Processes
-
----
-
 # 1-Processes
 
 ## **Crux: How to provide the illusion of many CPUs?** 

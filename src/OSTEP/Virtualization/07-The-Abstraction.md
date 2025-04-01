@@ -1,10 +1,3 @@
----
-date: 2024-10-29
-title: Address Spaces
-
----
-
-
 # 7-The Abstraction: Address Spaces
 
 ## **THE CRUX: HOW TO VIRTUALIZE MEMORY**

@@ -1,9 +1,3 @@
----
-date: 2024-12-01
-title: Network Layer
----
-
-
 # Network Layer
 
 > 路由表是两个平面的交叉点

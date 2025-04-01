@@ -1,9 +1,3 @@
----
-date: 2024-10-27
-title: Scheduling MLFQ
-
----
-
 # 5-Scheduling: Multi-Level Feedback Queue
 
 ## **Crux: HOW TO SCHEDULE WITHOUT PERFECT KNOWLEDGE?**

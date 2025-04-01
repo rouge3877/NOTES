@@ -1,9 +1,3 @@
----
-date: 2024-11-20
-title: Paging Introduction
-
----
-
 # 12-[Introduction to Paging](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf)
 
 ## **THE CRUX: HOW TO VIRTUALIZE MEMORY WITH PAGES**

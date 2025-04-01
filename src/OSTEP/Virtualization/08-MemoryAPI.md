@@ -1,10 +1,3 @@
----
-date: 2024-10-31
-title: MemoryAPI
-
----
-
-
 # 8-Memory API
 
 ## **THE CRUX: HOW TO ALLOCATE AND MANAGE MEMORY**

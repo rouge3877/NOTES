@@ -1,9 +1,3 @@
----
-date: 2024-12-02
-title: Transport Layer
----
-
-
 # Transport Layer
 
 >* 理解Transport Layer的工作原理

@@ -1,9 +1,3 @@
----
-date: 2024-12-05
-title: Link Layer
----
-
-
 # Link Layer (and LANs)
 
 <!-- The link layer is the second layer in the OSI model of computer networking. It is responsible for the node-to-node delivery of data and handles the physical addressing, error detection, and control of data flow. The link layer ensures that data is transferred reliably across the physical network medium.
